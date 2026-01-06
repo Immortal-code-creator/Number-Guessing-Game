@@ -1,8 +1,9 @@
-#Make a Number guessing game where there will be a hidden number and the user has to find the number
-#If the input answer is greater than the actual answer print "The number is much higher" else "The number is much lower"
+#Make a Number guessing game where there will be a hidden number and the user has to find the number between 1 and 1000
+#If the input answer is greater than the actual answer print "Your Guess is Too high" else "Your Guess is Too Low"
 #No.of Guesses =10
-#If the no.of guesses is over then print"Game's Over try again"
+#If the no.of guesses is over then print"You have ran out of Available Guesses"
 #If the user wins print no.of guesses he took to win
+#Use a built-in function random
 import random
 key=random.randint(1,1000)
 guess=10
