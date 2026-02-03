@@ -86,7 +86,7 @@ The game ends when:
 
 -Clone the repository:
 
-   ### git clone https://github.com/your-username/number-guessing-game-python.git
+   ### git clone https://github.com/Immortal-code-creator/number-guessing-game-python.git
 
 -Navigate to the project directory.
 
